@@ -84,7 +84,7 @@ Include the following in your report:
 ## 🧾 Results
 - **Model Used:** DecisionTreeClassifier (sklearn)  
 - **Dataset:** Olivetti Faces (64×64 grayscale)  
-- **Test Accuracy:** ~0.85  
+- **Test Accuracy:** ~0.37  
 - **Replicas in Kubernetes:** 3  
 - **Container Size:** ~610MB  
 - **Image Registry:** Docker Hub (Public)
